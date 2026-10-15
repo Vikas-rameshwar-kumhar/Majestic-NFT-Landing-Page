@@ -97,12 +97,12 @@ export default function Home() {
     />
   </motion.div>
 </motion.div>
-        <div className="relative z-10 flex flex-col w-full">
+        <div className="relative z-10 flex flex-col w-full  ">
           <Navbar />
           <HeroSection />
-          <PricingSection />
-          <NewsletterSection />
-          <Footer />
+          {/* <PricingSection /> */}
+          {/* <NewsletterSection /> */}
+          {/* <Footer /> */}
         </div>
       </main>
 
