@@ -100,7 +100,7 @@ export default function Home() {
         <div className="relative z-10 flex flex-col w-full  ">
           <Navbar />
           <HeroSection />
-          {/* <PricingSection /> */}
+          <PricingSection />
           {/* <NewsletterSection /> */}
           {/* <Footer /> */}
         </div>
