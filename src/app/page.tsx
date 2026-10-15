@@ -101,8 +101,8 @@ export default function Home() {
           <Navbar />
           <HeroSection />
           <PricingSection />
-          <NewsletterSection />
-          <Footer />
+          {/* <NewsletterSection /> */}
+          {/* <Footer /> */}
         </div>
       </main>
 
