@@ -102,7 +102,7 @@ export default function Home() {
           <HeroSection />
           <PricingSection />
           <NewsletterSection />
-          <Footer />
+          {/* <Footer /> */}
         </div>
       </main>
 
